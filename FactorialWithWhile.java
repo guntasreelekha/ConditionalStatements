@@ -1,4 +1,4 @@
-package conditionaloperators;
+package conditionalstatements;
 
 public class FactorialWithWhile {
     public static void main(String args[]) {

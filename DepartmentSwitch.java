@@ -1,4 +1,4 @@
-package conditionaloperators;
+package conditionalstatements;
 
 public class DepartmentSwitch {
     public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package conditionaloperators;
+package conditionalstatements;
 
 public class SampleSwitch {
     public static void main(String args[]){
